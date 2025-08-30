@@ -1,0 +1,14 @@
+{
+	"comment": "Valores em mB (milibuckets) por unidade de pó. 1 lingote = 144mB.",
+	"copper": {
+		"copper_dust": 144,
+		"tetrahedrite_dust": 129,
+		"small_pile_tetrahedrite_dust": 31
+	},
+	"tin": {
+		"tin_dust": 144,
+		"cassiterite_dust": 144,
+		"cassiterite_sand_dust": 121,
+		"small_tin_dust": 36
+	}
+}
